@@ -1,0 +1,10 @@
+{
+  "web": {
+    "client_id": "35971205940-4aivmmcfhipt4hg3tt2trnc6q85bsto6.apps.googleusercontent.com",
+    "project_id": "avid-math-204823",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "8RNqJc4OG3dUPPyGe2ZnGUgl"
+  }
+}
